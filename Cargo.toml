@@ -1,0 +1,21 @@
+[workspace]
+
+members = [
+    "basic-types",
+    "impl-behaviour",
+    "borrowing",
+    "enumerations",
+    "functions",
+    "generics",
+    "important-traits",
+    "let-bindings",
+    "lifetimes",
+    "move-semantics",
+    "mutability",
+    "ownership",
+    "structures",
+    "traits",
+    "type-definitions",
+    "type-inference",
+    "using-derive-macros",
+]
