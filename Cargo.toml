@@ -18,4 +18,5 @@ members = [
     "type-definitions",
     "type-inference",
     "using-derive-macros",
+    "vectors",
 ]
